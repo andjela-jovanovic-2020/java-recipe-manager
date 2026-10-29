@@ -22,6 +22,12 @@ Desktop application for managing recipes, built with Java Swing and SQLite.
 - JDBC
 - NetBeans
 
+## Prerequisites
+
+- Java Development Kit (JDK)
+- NetBeans IDE
+- SQLite database support
+
 ## Author
 
 Anđela Jovanović
